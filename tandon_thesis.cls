@@ -90,7 +90,7 @@ thesis class, originally Boris Aronov, modified Crystal Butler]
 %   right=0.75in}
    top=1in-\headheight-\headsep, % first line of text at 1 inch from the edge 
    bottom=1in-\footskip,         % last line of text at 1in from the edge
-   left=1.5in,                   % left margin 1in, right 3/4in
+   left=1.5in,                   % left margin 1 1/2in, right 1in
    right=1in}   
 %  \topmargin 0 in
 %  \textheight 9in
